@@ -1,4 +1,9 @@
-### Hi there 👋
+# My Qiita Works
+
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/LemonmanNo39/posts.svg)](http://qiita.com/LemonmanNo39)
+
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/LemonmanNo39/contributions.svg)](http://qiita.com/LemonmanNo39)
+
 
 <!--
 **LemonmanNo39/LemonmanNo39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
